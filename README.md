@@ -14,3 +14,20 @@ I'm a student and passionate self-taught backend developer from India.
 - 📫 How to reach me: [twitter](https://twitter.com/adisakshya), [linkedin](https://www.linkedin.com/in/adisakshya-chauhan-a62920151/), [email](mailto:adisakshya98@gmail.com)
 - 😄 Pronouns: Backend Developer
 - 👨‍💻 Most of my work is available [here](https://github.com/adisakshya?tab=repositories)
+
+<br/>
+
+## 🏆 Github Profile Trophy
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=adisakshya&title=MultiLanguage,Commit,Followers,Repositories,PullRequest,Issues&column=7&margin-w=15&margin-h=15"/>
+</div>
+
+<br/>
+
+## 👨🏻‍💻 Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Adisakshya's github stats" src="https://github-readme-stats.vercel.app/api?username=adisakshya&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,stars" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Adisakshya's most used languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisakshya&hide=css,html,jupyter%20notebook&langs_count=10&layout=compact" />
+</a>
