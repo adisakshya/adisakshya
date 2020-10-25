@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/adisakshya/adisakshya/version/1.0.0/assets/images/banner.png?token=AKXRM5QJVUPOPPP7TQGQWFS7T2AEQ" />
+<img align="center" src="https://raw.githubusercontent.com/adisakshya/adisakshya/master/assets/images/banner.png" />
 
 ## Hi there 👋
 I'm a student and passionate self-taught backend developer from India.
