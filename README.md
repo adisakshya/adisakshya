@@ -1,4 +1,5 @@
-<img align="center" src="assets/images/banner.png" />
+<!-- Banner Image -->
+<!-- <img align="center" src="assets/images/banner.png" /> -->
 
 ## Hi there 👋
 I'm a student and passionate self-taught backend developer from India.
@@ -16,4 +17,5 @@ I'm a student and passionate self-taught backend developer from India.
 
 <br/>
 
+## ⚡ Recent Activity
 <!--START_SECTION:activity-->
