@@ -19,3 +19,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/adisakshya/playground/pull/8) in [adisakshya/playground](https://github.com/adisakshya/playground)
+2. 💪 Opened PR [#8](https://github.com/adisakshya/playground/pull/8) in [adisakshya/playground](https://github.com/adisakshya/playground)
+3. 🎉 Merged PR [#7](https://github.com/adisakshya/playground/pull/7) in [adisakshya/playground](https://github.com/adisakshya/playground)
+4. 💪 Opened PR [#7](https://github.com/adisakshya/playground/pull/7) in [adisakshya/playground](https://github.com/adisakshya/playground)
+5. ❌ Closed PR [#5](https://github.com/adisakshya/playground/pull/5) in [adisakshya/playground](https://github.com/adisakshya/playground)
+<!--END_SECTION:activity-->
