@@ -1,5 +1,4 @@
-<!-- Banner Image -->
-<!-- <img align="center" src="assets/images/banner.png" /> -->
+![npx-card](https://raw.githubusercontent.com/adisakshya/card/master/screenshots/adisakshya.png)
 
 ## Hi there 👋
 I'm a student and passionate self-taught backend developer from India.
