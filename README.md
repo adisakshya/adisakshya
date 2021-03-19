@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1853](https://github.com/Bash-it/bash-it/issues/1853) in [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
-2. 🎉 Merged PR [#1](https://github.com/adisakshya/card/pull/1) in [adisakshya/card](https://github.com/adisakshya/card)
-3. 💪 Opened PR [#1](https://github.com/adisakshya/card/pull/1) in [adisakshya/card](https://github.com/adisakshya/card)
-4. 🎉 Merged PR [#24](https://github.com/adisakshya/reminder-service/pull/24) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
-5. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+1. 🎉 Merged PR [#4](https://github.com/adisakshya/django-heroku/pull/4) in [adisakshya/django-heroku](https://github.com/adisakshya/django-heroku)
+2. ❗️ Opened issue [#1853](https://github.com/Bash-it/bash-it/issues/1853) in [Bash-it/bash-it](https://github.com/Bash-it/bash-it)
+3. 🎉 Merged PR [#1](https://github.com/adisakshya/card/pull/1) in [adisakshya/card](https://github.com/adisakshya/card)
+4. 💪 Opened PR [#1](https://github.com/adisakshya/card/pull/1) in [adisakshya/card](https://github.com/adisakshya/card)
+5. 🎉 Merged PR [#24](https://github.com/adisakshya/reminder-service/pull/24) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
 <!--END_SECTION:activity-->
