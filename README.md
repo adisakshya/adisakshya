@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/adisakshya/reminder-service/pull/25) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
-2. 🎉 Merged PR [#1](https://github.com/adisakshya/python-devops/pull/1) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
-3. 🎉 Merged PR [#2](https://github.com/adisakshya/python-devops/pull/2) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
-4. 🎉 Merged PR [#1](https://github.com/adisakshya/ewyl/pull/1) in [adisakshya/ewyl](https://github.com/adisakshya/ewyl)
-5. 🎉 Merged PR [#4](https://github.com/adisakshya/django-heroku/pull/4) in [adisakshya/django-heroku](https://github.com/adisakshya/django-heroku)
+1. ❗️ Closed issue [#13](https://github.com/adisakshya/adisakshya.github.io/issues/13) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+2. 🗣 Commented on [#13](https://github.com/adisakshya/adisakshya.github.io/issues/13) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+3. 🎉 Merged PR [#25](https://github.com/adisakshya/reminder-service/pull/25) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
+4. 🎉 Merged PR [#1](https://github.com/adisakshya/python-devops/pull/1) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
+5. 🎉 Merged PR [#2](https://github.com/adisakshya/python-devops/pull/2) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
 <!--END_SECTION:activity-->
