@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/adisakshya/adisakshya.github.io/pull/10) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-2. 🗣 Commented on [#10](https://github.com/adisakshya/adisakshya.github.io/issues/10) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-3. ❗️ Closed issue [#12](https://github.com/adisakshya/adisakshya.github.io/issues/12) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-4. 🗣 Commented on [#12](https://github.com/adisakshya/adisakshya.github.io/issues/12) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-5. ❗️ Closed issue [#13](https://github.com/adisakshya/adisakshya.github.io/issues/13) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+1. ❗️ Closed issue [#3](https://github.com/adisakshya/dev-utils/issues/3) in [adisakshya/dev-utils](https://github.com/adisakshya/dev-utils)
+2. 🗣 Commented on [#3](https://github.com/adisakshya/dev-utils/issues/3) in [adisakshya/dev-utils](https://github.com/adisakshya/dev-utils)
+3. ❌ Closed PR [#10](https://github.com/adisakshya/adisakshya.github.io/pull/10) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+4. 🗣 Commented on [#10](https://github.com/adisakshya/adisakshya.github.io/issues/10) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+5. ❗️ Closed issue [#12](https://github.com/adisakshya/adisakshya.github.io/issues/12) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
 <!--END_SECTION:activity-->
