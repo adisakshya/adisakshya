@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/adisakshya/dev-utils/issues/3) in [adisakshya/dev-utils](https://github.com/adisakshya/dev-utils)
-2. 🗣 Commented on [#3](https://github.com/adisakshya/dev-utils/issues/3) in [adisakshya/dev-utils](https://github.com/adisakshya/dev-utils)
-3. ❌ Closed PR [#10](https://github.com/adisakshya/adisakshya.github.io/pull/10) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-4. 🗣 Commented on [#10](https://github.com/adisakshya/adisakshya.github.io/issues/10) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-5. ❗️ Closed issue [#12](https://github.com/adisakshya/adisakshya.github.io/issues/12) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+1. 🎉 Merged PR [#3](https://github.com/adisakshya/bookmarking-service/pull/3) in [adisakshya/bookmarking-service](https://github.com/adisakshya/bookmarking-service)
+2. 🎉 Merged PR [#6](https://github.com/adisakshya/pipeline_demo/pull/6) in [adisakshya/pipeline_demo](https://github.com/adisakshya/pipeline_demo)
+3. 🎉 Merged PR [#26](https://github.com/adisakshya/reminder-service/pull/26) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
+4. 🎉 Merged PR [#4](https://github.com/avikantwadhwa/Farmers-App/pull/4) in [avikantwadhwa/Farmers-App](https://github.com/avikantwadhwa/Farmers-App)
+5. ❗️ Closed issue [#3](https://github.com/adisakshya/dev-utils/issues/3) in [adisakshya/dev-utils](https://github.com/adisakshya/dev-utils)
 <!--END_SECTION:activity-->
