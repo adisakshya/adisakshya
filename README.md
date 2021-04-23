@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/adisakshya/reminder-service/pull/28) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
-2. 🎉 Merged PR [#5](https://github.com/adisakshya/django-heroku/pull/5) in [adisakshya/django-heroku](https://github.com/adisakshya/django-heroku)
-3. 🎉 Merged PR [#16](https://github.com/adisakshya/adisakshya.github.io/pull/16) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-4. ❗️ Closed issue [#15](https://github.com/adisakshya/adisakshya.github.io/issues/15) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
-5. ❗️ Closed issue [#14](https://github.com/adisakshya/adisakshya.github.io/issues/14) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+1. 🎉 Merged PR [#29](https://github.com/adisakshya/reminder-service/pull/29) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
+2. 🎉 Merged PR [#28](https://github.com/adisakshya/reminder-service/pull/28) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
+3. 🎉 Merged PR [#5](https://github.com/adisakshya/django-heroku/pull/5) in [adisakshya/django-heroku](https://github.com/adisakshya/django-heroku)
+4. 🎉 Merged PR [#16](https://github.com/adisakshya/adisakshya.github.io/pull/16) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+5. ❗️ Closed issue [#15](https://github.com/adisakshya/adisakshya.github.io/issues/15) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
 <!--END_SECTION:activity-->
