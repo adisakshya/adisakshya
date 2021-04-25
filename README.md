@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adisakshya/weblog/pull/1) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
-2. 🎉 Merged PR [#29](https://github.com/adisakshya/reminder-service/pull/29) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
-3. 🎉 Merged PR [#28](https://github.com/adisakshya/reminder-service/pull/28) in [adisakshya/reminder-service](https://github.com/adisakshya/reminder-service)
-4. 🎉 Merged PR [#5](https://github.com/adisakshya/django-heroku/pull/5) in [adisakshya/django-heroku](https://github.com/adisakshya/django-heroku)
-5. 🎉 Merged PR [#16](https://github.com/adisakshya/adisakshya.github.io/pull/16) in [adisakshya/adisakshya.github.io](https://github.com/adisakshya/adisakshya.github.io)
+1. ❌ Closed PR [#8](https://github.com/adisakshya/weblog/pull/8) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
+2. 🎉 Merged PR [#9](https://github.com/adisakshya/weblog/pull/9) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
+3. ❌ Closed PR [#4](https://github.com/adisakshya/weblog/pull/4) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
+4. ❌ Closed PR [#2](https://github.com/adisakshya/weblog/pull/2) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
+5. ❌ Closed PR [#5](https://github.com/adisakshya/weblog/pull/5) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
 <!--END_SECTION:activity-->
