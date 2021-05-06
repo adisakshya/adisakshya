@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/adisakshya/weblog/pull/13) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
-2. 🎉 Merged PR [#12](https://github.com/adisakshya/weblog/pull/12) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
-3. ❌ Closed PR [#2](https://github.com/adisakshya/ewyl/pull/2) in [adisakshya/ewyl](https://github.com/adisakshya/ewyl)
-4. ❌ Closed PR [#11](https://github.com/adisakshya/weblog/pull/11) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
-5. 🎉 Merged PR [#6](https://github.com/adisakshya/custom-url-shortener/pull/6) in [adisakshya/custom-url-shortener](https://github.com/adisakshya/custom-url-shortener)
+1. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+2. 🎉 Merged PR [#13](https://github.com/adisakshya/weblog/pull/13) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
+3. 🎉 Merged PR [#12](https://github.com/adisakshya/weblog/pull/12) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
+4. ❌ Closed PR [#2](https://github.com/adisakshya/ewyl/pull/2) in [adisakshya/ewyl](https://github.com/adisakshya/ewyl)
+5. ❌ Closed PR [#11](https://github.com/adisakshya/weblog/pull/11) in [adisakshya/weblog](https://github.com/adisakshya/weblog)
 <!--END_SECTION:activity-->
