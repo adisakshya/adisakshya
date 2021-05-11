@@ -18,9 +18,9 @@ I'm a student and passionate self-taught backend developer from India.
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/avikantwadhwa/Farmers-App/pull/5) in [avikantwadhwa/Farmers-App](https://github.com/avikantwadhwa/Farmers-App)
-2. 🎉 Merged PR [#7](https://github.com/adisakshya/custom-url-shortener/pull/7) in [adisakshya/custom-url-shortener](https://github.com/adisakshya/custom-url-shortener)
-3. ❌ Closed PR [#4](https://github.com/adisakshya/python-devops/pull/4) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
-4. ❌ Closed PR [#3](https://github.com/adisakshya/python-devops/pull/3) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
-5. 🗣 Commented on [#1](https://github.com/jamesgeorge007/jamesgeorge007/issues/1) in [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+1. 🎉 Merged PR [#8](https://github.com/adisakshya/custom-url-shortener/pull/8) in [adisakshya/custom-url-shortener](https://github.com/adisakshya/custom-url-shortener)
+2. 🎉 Merged PR [#5](https://github.com/avikantwadhwa/Farmers-App/pull/5) in [avikantwadhwa/Farmers-App](https://github.com/avikantwadhwa/Farmers-App)
+3. 🎉 Merged PR [#7](https://github.com/adisakshya/custom-url-shortener/pull/7) in [adisakshya/custom-url-shortener](https://github.com/adisakshya/custom-url-shortener)
+4. ❌ Closed PR [#4](https://github.com/adisakshya/python-devops/pull/4) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
+5. ❌ Closed PR [#3](https://github.com/adisakshya/python-devops/pull/3) in [adisakshya/python-devops](https://github.com/adisakshya/python-devops)
 <!--END_SECTION:activity-->
