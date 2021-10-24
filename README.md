@@ -1,7 +1,8 @@
 ![npx-card](https://raw.githubusercontent.com/adisakshya/card/master/screenshots/adisakshya.png)
 
 ## Hi there 👋
-I'm a student and passionate self-taught backend developer from India.
+
+A CSE graduate who has a knack for computer technology and research.
 
 [![Twitter Badge](https://img.shields.io/badge/-adisakshya-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/adisakshya)](https://www.twitter.com/adisakshya)
 [![Website Badge](https://img.shields.io/badge/-adisakshya.codes-purple?style=flat&logo=firefox&logoColor=white&link=https://adisakshya.codes)](https://adisakshya.codes)
@@ -10,6 +11,7 @@ I'm a student and passionate self-taught backend developer from India.
 ![Profile views](https://gpvc.arturio.dev/adisakshya)
 
 ## 🏆 Trophies
+
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=adisakshya&title=MultiLanguage,Commit,Followers,Repositories,PullRequest,Issues&column=7&margin-w=15&margin-h=15"/>
 </div>
