@@ -1,11 +1,8 @@
-## Hi there 👋
-
 Experienced Senior Data Engineer with a passion for computer technology and research. Published author with a diverse background in architecting data and software solutions, dedicated to leveraging innovative research to drive inspirational solutions that transcend industries and make a global impact.
 
 [![Linkedin badge](https://img.shields.io/badge/-adisakshya-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adisakshya)
 [![Website Badge](https://img.shields.io/badge/-adisakshya.github.io-purple?style=flat&logo=firefox&logoColor=white&link=https://adisakshya.github.io)](https://adisakshya.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-adisakshya-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/adisakshya)](https://www.twitter.com/adisakshya)
-[![Email Badge](https://img.shields.io/badge/-adisakshya98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adisakshya98@gmail.com)](mailto:adisakshya98@gmail.com)
 
 ## 🏆 Trophies
 
