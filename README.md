@@ -8,21 +8,21 @@ Full-stack engineer | Data Engineer | AI/ML Systems | Healthcare Tech | New Delh
 
 ## About Me
 
-Passionate full-stack engineer with 3+ years of experience building data-driven systems and AI solutions. Currently focused on healthcare AI, data engineering, and consulting. Background spans from ZS Associates' consulting-driven data systems to developing Medical Affairs AI solutions and HCP Knowledge Graphs. Experienced in designing scalable architectures, ML pipeline development, and translating complex requirements into production systems.
+Passionate full-stack engineer with 3+ years of experience building data-driven systems and AI solutions. Currently working at ZS Associates, focusing on data engineering consulting, Medical Affairs AI, and healthcare technology. Recent work includes building an HCP Knowledge Graph on Neo4j and translating complex healthcare requirements into scalable architectures, ML pipelines, and production systems.
 
-## Professional Experience
+## Professional Background
 
-**ZS Associates** - Consulting & Data Systems
+**ZS Associates** - Current Employer, Data Engineering Consulting & AI Systems
 
-- Worked on consulting projects requiring data engineering and systems design.
-- Built scalable data pipelines and analytical systems.
-- Collaborated with cross-functional teams on complex problem-solving.
+- Work on data engineering consulting projects that require scalable system design, analytics, and stakeholder-focused delivery.
+- Build data pipelines and analytical systems for complex business and healthcare use cases.
+- Collaborate with cross-functional teams to translate consulting requirements into production-ready technical solutions.
 
 **Medical Affairs AI & Healthcare Tech**
 
-- Developed HCP Knowledge Graph systems for healthcare applications.
-- Built AI-powered solutions for medical affairs and healthcare domain.
-- Experience with healthcare data, compliance, and domain-specific requirements.
+- Develop Medical Affairs AI solutions for healthcare applications and domain-specific workflows.
+- Built an HCP Knowledge Graph on Neo4j to support healthcare knowledge discovery and relationship modeling.
+- Experience with healthcare data, compliance-aware delivery, and domain-specific requirements.
 
 **Current Focus**: Data engineering, AI systems for healthcare, full-stack development.
 
