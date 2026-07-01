@@ -55,7 +55,7 @@ Passionate full-stack engineer with 3+ years of experience building data-driven 
 </p>
 
 - **Public repositories**: 52
-- **Followers / Following**: 20 / 27
+- **Followers / Following**: 22 / 27
 - **Stars across original public repositories**: 35
 - **Forks across original public repositories**: 24
 - **Primary repository languages**: Python (13), JavaScript (7), TypeScript (5), Dockerfile (5), Jupyter Notebook (4), HTML (3)
@@ -64,14 +64,7 @@ Passionate full-stack engineer with 3+ years of experience building data-driven 
 ## ⚡ Recent Activity
 
 <!-- recent-activity-start -->
-- 2026-05-30: pushed commits to [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya/commit/860eb1ad9b41341e26c9eb22c601d030667433e2).
-- 2026-05-30: updated a pull request in [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya).
-- 2026-05-30: pushed commits to [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya/commit/e3d1a7514194f07c6143e8ef968c57ba69d74481).
-- 2026-05-30: pushed commits to [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya/commit/e7044f5b06f425a0c1297c402e5c5b4257917a06).
-- 2026-05-30: commented on an issue or PR in [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya/pull/10).
-- 2026-05-30: commented on an issue or PR in [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya/pull/10).
-- 2026-05-30: updated a pull request in [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya).
-- 2026-05-30: updated a pull request in [adisakshya/adisakshya](https://github.com/adisakshya/adisakshya).
+No recent public activity found.
 <!-- recent-activity-end -->
 
 ## 🚀 Featured Projects
@@ -101,5 +94,5 @@ Visit [adisakshya.github.io](https://adisakshya.github.io/weblog/) for long-form
 ---
 
 **Last updated**: <!-- last-updated-start -->
-2026-06-01 07:05 UTC
+2026-07-01 06:37 UTC
 <!-- last-updated-end -->
