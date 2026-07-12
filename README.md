@@ -1,52 +1,24 @@
-# Adisakshya
+# Hi, I'm Adisakshya 👋
 
-Full-stack engineer | Data Engineer | AI/ML Systems | Healthcare Tech | New Delhi, India
+Full-stack engineer building data-driven systems and AI solutions, currently working on data engineering and Medical Affairs AI in healthcare tech. Based in New Delhi, India.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adisakshya-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adisakshya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adisakshya.github.io-purple?style=flat&logo=firefox&logoColor=white)](https://adisakshya.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-adisakshya-181717?style=flat&logo=github&logoColor=white)](https://github.com/adisakshya)
-
-## About Me
-
-Passionate full-stack engineer with 3+ years of experience building data-driven systems and AI solutions. Currently working at ZS Associates, focusing on data engineering consulting, Medical Affairs AI, and healthcare technology. Recent work includes building an HCP Knowledge Graph on Neo4j and translating complex healthcare requirements into scalable architectures, ML pipelines, and production systems.
-
-## Professional Background
-
-**ZS Associates** - Current Employer, Data Engineering Consulting & AI Systems
-
-- Work on data engineering consulting projects that require scalable system design, analytics, and stakeholder-focused delivery.
-- Build data pipelines and analytical systems for complex business and healthcare use cases.
-- Collaborate with cross-functional teams to translate consulting requirements into production-ready technical solutions.
-
-**Medical Affairs AI & Healthcare Tech**
-
-- Develop Medical Affairs AI solutions for healthcare applications and domain-specific workflows.
-- Built an HCP Knowledge Graph on Neo4j to support healthcare knowledge discovery and relationship modeling.
-- Experience with healthcare data, compliance-aware delivery, and domain-specific requirements.
-
-**Current Focus**: Data engineering, AI systems for healthcare, full-stack development.
+[![Email](https://img.shields.io/badge/Email-adisakshya98%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:adisakshya98@gmail.com)
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript/TypeScript, SQL, Bash, YAML
+**Languages**: Python, JavaScript/TypeScript, SQL, Bash
 
-**Data & ML**: PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn, Apache Spark
+**Data & ML**: PyTorch, TensorFlow, Pandas, Scikit-learn, Apache Spark
 
-**Backend & Frameworks**: Node.js, FastAPI, Django, PostgreSQL, Redis
+**Backend**: Node.js, FastAPI, Django, PostgreSQL, Redis
 
-**Frontend**: React, Vue.js, TypeScript
+**Frontend**: React, Vue.js
 
-**Infrastructure & DevOps**: Docker, Kubernetes, GitHub Actions, AWS, GCP, CI/CD pipelines
+**Infra**: Docker, Kubernetes, GitHub Actions, AWS, GCP
 
-**Specializations**:
-
-- Data Engineering (ETL, data pipelines, schema design)
-- ML Systems (model development, ML Ops, pipeline orchestration)
-- Healthcare domain expertise (HCP systems, medical data)
-- Consulting-driven solutions (requirements translation, stakeholder management)
-- Full-stack development with focus on scalability
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <!-- github-stats-start -->
 <p>
@@ -66,24 +38,6 @@ Passionate full-stack engineer with 3+ years of experience building data-driven 
 <!-- recent-activity-start -->
 No recent public activity found.
 <!-- recent-activity-end -->
-
-## 🚀 Featured Projects
-
-### Key Focus Areas
-
-- **Data Engineering**: Building scalable data pipelines and ETL systems.
-- **Healthcare AI**: HCP Knowledge Graphs, Medical Affairs AI systems.
-- **ML Systems**: End-to-end ML pipeline development and ML Ops.
-- **Full-Stack Development**: Complete solutions from backend APIs to frontend interfaces.
-
-Check pinned repositories for detailed examples.
-
-## 🤝 Connect With Me
-
-- **GitHub**: [adisakshya](https://github.com/adisakshya)
-- **Email**: [adisakshya98@gmail.com](mailto:adisakshya98@gmail.com)
-- **LinkedIn**: [adisakshya](https://www.linkedin.com/in/adisakshya)
-- **Portfolio**: [adisakshya.github.io](https://adisakshya.github.io)
 
 ## ✍️ Latest Blog Posts
 
