@@ -1,0 +1,99 @@
+name: Refresh profile README assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 2 * * 1"
+  push:
+    branches:
+      - master
+    paths:
+      - "config/profile.json"
+      - "scripts/generate_profile_card.py"
+      - ".github/workflows/profile-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh-profile-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate terminal profile cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/generate_profile_card.py
+
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          user: adisakshya
+          # Optional METRICS_TOKEN can improve base_indepth reliability for public metrics; github.token remains the fallback.
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_token: ${{ github.token }}
+
+          filename: github-metrics.svg
+          output_action: none
+
+          template: classic
+          base: activity, community, repositories
+          base_indepth: yes
+
+          repositories: 100
+          repositories_forks: no
+          repositories_affiliations: owner
+
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_other: yes
+
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_delay: 30
+
+          config_display: columns
+          config_timezone: Asia/Kolkata
+          config_animations: no
+          config_order: base.activity+community, languages, base.repositories
+
+          optimize: css, xml
+          retries: 3
+          retries_delay: 300
+
+      - name: Copy metrics render
+        run: |
+          cp /metrics_renders/github-metrics.svg assets/github-metrics.svg
+
+      - name: Validate generated assets
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/generate_profile_card.py
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/profile-dark.svg assets/profile-light.svg assets/github-metrics.svg
+
+          if git diff --cached --quiet; then
+            echo "No profile changes to commit"
+          else
+            git commit -m "chore: refresh profile assets [skip ci]"
+            git push
+          fi

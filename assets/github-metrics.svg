@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 980 220" width="980" height="220">
+  <title>GitHub activity, community, language, repository and code-change metrics for adisakshya</title>
+  <rect width="980" height="220" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="40" y="58" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">GitHub Metrics</text>
+  <text x="40" y="96" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Generated weekly by lowlighter/metrics in GitHub Actions.</text>
+  <text x="40" y="136" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Activity · Community statistics · Repository statistics · Most-used languages</text>
+  <text x="40" y="170" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Lines of code changed · Lines added · Lines removed</text>
+</svg>

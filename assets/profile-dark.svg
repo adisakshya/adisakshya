@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 980 280" width="980" height="280">
+  <title id="title">Terminal-style profile summary for Adisakshya Chauhan</title>
+  <desc id="desc">adi@github profile card with GitHub uptime, languages, hobbies, and personal email.</desc>
+  <defs>
+    <filter id="soft-shadow" x="-2%" y="-6%" width="104%" height="112%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#010409" flood-opacity="0.20"/>
+    </filter>
+    <style>
+      .terminal-bg { fill: #0d1117; }
+      .panel { fill: #161b22; stroke: #30363d; stroke-width: 1.5; }
+      .dot-red { fill: #ff7b72; }
+      .dot-yellow { fill: #d29922; }
+      .dot-green { fill: #7ee787; }
+      .handle { fill: #7ee787; font: 700 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .prompt { fill: #8b949e; font: 500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .key { fill: #8b949e; font: 600 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .value { fill: #c9d1d9; font: 500 16px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .small-value { font-size: 14px; }
+      .leader { stroke: #30363d; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 1 8; }
+      .divider { stroke: #30363d; stroke-width: 1; }
+      .accent-bar { fill: #7ee787; opacity: 0.85; }
+    </style>
+  </defs>
+  <rect class="terminal-bg" width="980" height="280" rx="16" />
+  <rect class="panel" x="18" y="18" width="944" height="244" rx="15" filter="url(#soft-shadow)" />
+  <rect class="accent-bar" x="18" y="18" width="944" height="4" rx="2" />
+  <circle class="dot-red" cx="51" cy="50" r="6" />
+  <circle class="dot-yellow" cx="73" cy="50" r="6" />
+  <circle class="dot-green" cx="95" cy="50" r="6" />
+  <text x="72" y="88" class="handle" text-anchor="start">adi@github</text>
+  <text x="510" y="50" class="prompt" text-anchor="start">~/profile --compact</text>
+  <line class="divider" x1="474" y1="62" x2="474" y2="222" />
+  <text x="72" y="122" class="key" text-anchor="start">Uptime</text>
+<line x1="277" y1="117" x2="296" y2="117" class="leader" />
+<text x="314" y="122" class="value" text-anchor="start">7 years, 7 months on GitHub</text>
+<text x="72" y="160" class="key" text-anchor="start">Languages.Programming</text>
+<line x1="277" y1="155" x2="296" y2="155" class="leader" />
+<text x="314" y="160" class="value" text-anchor="start">Python, SQL, TypeScript, Bash</text>
+<text x="72" y="198" class="key" text-anchor="start">Languages.Real</text>
+<line x1="277" y1="193" x2="296" y2="193" class="leader" />
+<text x="314" y="198" class="value" text-anchor="start">English, Hindi</text>
+  <text x="510" y="84" class="key" text-anchor="start">Hobbies.Software</text>
+<line x1="688" y1="79" x2="700" y2="79" class="leader" />
+<text x="718" y="84" class="value small-value"><tspan x="718" dy="0">Automation side quests</tspan><tspan x="718" dy="18">CLI rabbit holes</tspan><tspan x="718" dy="18">AI tool experiments</tspan></text>
+<text x="510" y="132" class="key" text-anchor="start">Hobbies.Hardware</text>
+<line x1="688" y1="127" x2="700" y2="127" class="leader" />
+<text x="718" y="132" class="value small-value"><tspan x="718" dy="0">Aeromodelling builds</tspan><tspan x="718" dy="18">Electronics, Gadget tinkering</tspan></text>
+<text x="510" y="180" class="key" text-anchor="start">Hobbies.Real</text>
+<line x1="688" y1="175" x2="700" y2="175" class="leader" />
+<text x="718" y="180" class="value small-value"><tspan x="718" dy="0">Aeromodelling, Reading, Writing</tspan><tspan x="718" dy="18">Research</tspan></text>
+<text x="510" y="228" class="key" text-anchor="start">Email.Personal</text>
+<line x1="688" y1="223" x2="700" y2="223" class="leader" />
+<text x="718" y="228" class="value" text-anchor="start">adisakshya98@gmail.com</text>
+</svg>
