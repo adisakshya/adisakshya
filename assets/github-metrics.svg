@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 160" width="100%" role="img" aria-label="GitHub metrics pending generation">
+<rect width="980" height="160" rx="14" fill="#0d1117" />
+<rect x="1" y="1" width="978" height="158" rx="13" fill="none" stroke="#30363d" stroke-width="1.5" />
+<text x="32" y="70" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#7ee787">metrics: pending</text>
+<text x="32" y="100" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8b949e">This placeholder is replaced automatically by the profile-readme workflow</text>
+<text x="32" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8b949e">(lowlighter/metrics) on the first run after merge to master.</text>
+</svg>
