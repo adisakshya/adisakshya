@@ -72,7 +72,7 @@ jobs:
       - name: Copy metrics render into assets
         run: |
           mkdir -p assets
-          cp metrics_renders/github-metrics.svg assets/github-metrics.svg
+          cp /metrics_renders/github-metrics.svg assets/github-metrics.svg
 
       - name: Validate generated assets
         run: python scripts/validate_profile_assets.py
