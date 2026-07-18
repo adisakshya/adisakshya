@@ -2,7 +2,7 @@
 const adisakshya = {
   name: 'Adisakshya Chauhan',
   alias: 'Adi',
-  currentAt: 'ZS Associates',
+  currentlyAt: 'ZS Associates',
   workIn: [
     'AI & Real-World Data Platforms',
     'Pharma Decision Intelligence',
