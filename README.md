@@ -1,14 +1,8 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/profile-dark.svg"
-  />
-  <img
-    width="100%"
-    alt="Terminal-style profile summary for Adisakshya Chauhan"
-    src="./assets/profile-light.svg"
-  />
-</picture>
+<img
+  width="100%"
+  alt="Profile summary for Adisakshya Chauhan"
+  src="./assets/carbon-2x.svg"
+/>
 
 <p align="center">
   <a href="https://adisakshya.github.io/weblog/">Blog</a>
